@@ -3,5 +3,7 @@ I am Orkhan, a senior agricultural economist and quantitative researcher. I have
 
 ## Skills 
 **Research Methods:** Causal inference, impact evaluation, survey design 
+
 **Tools:** Stata (advance), R (advance), Python (beginner)
+
 **Communication:** Academic writing, Presentation skills
