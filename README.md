@@ -11,3 +11,6 @@ I am Orkhan, a senior agricultural economist and quantitative researcher.
 **Tools:** Stata (advance), R (advance), Python (beginner)
 
 **Communication:** Academic writing, Presentation skills
+
+## Projects
+
