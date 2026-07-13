@@ -12,5 +12,6 @@ I am Orkhan, a senior agricultural economist and quantitative researcher.
 
 **Communication:** Academic writing, Presentation skills
 
-## Projects
+## 📌 Featured Projects
 
+- 📊 [SSA Food Security & Poverty Dashboard](https://github.com/orkhan-sari/ssa_dashboard.git) — Interactive Excel dashboard combining FAOSTAT and World Bank datasets to explore food security, poverty, and growth trends across Sub-Saharan Africa.
