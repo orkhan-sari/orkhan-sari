@@ -28,7 +28,7 @@ I am Orkhan, a senior agricultural economist/data analyst/quantitative researche
    - 
 - 🌾 [Poverty and Food Security Impacts of Sustainable Intensification](https://github.com/orkhan-sari/isfmca-replication.git) - Replication package for a peer-reviewed publication analyzing how sustainable intensification practices affect poverty and food security among smallholder farmers in Ethiopia.
   - **Data:** Household panel data: [*Smallholder farmers' risk management and innovation strategies and their impacts on poverty and resilience*](https://gepris.dfg.de/gepris/projekt/234398257?language=en), combined with rainfall data from [CHIRPS](https://www.chc.ucsb.edu/data/chirps)(Climate Hazards Group InfraRed Precipitation with Station data).
-  - **Tools:** `Stata` · `impact evaluation`
+  - **Tools:** `Stata`
   - **Skills demonstrated:** `causal inference` · `observational panel data` · `integration of geospatial climate data with household survey data` · `reproducible research workflow`
     
 - 📊 [SSA Food Security & Poverty Dashboard](https://github.com/orkhan-sari/ssa_dashboard.git) — Interactive Excel dashboard combining FAOSTAT and World Bank datasets to explore food security, poverty, and growth trends across Sub-Saharan Africa.
