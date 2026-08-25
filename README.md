@@ -1,10 +1,10 @@
 ## Hi there 👋
 I am Orkhan, a senior agricultural economist/data analyst/quantitative researcher. 
 
-- I have 9 years of experience in teaching graduate-level courses in quantitative methods, impact evaluation, and development strategies at the University of Hohenheim in Stuttgart, Germany.
+- I have 9 years of experience in building and validating econometric models on large-scale datasets to support evidence-based decision-making.
 - Lead quantitative research and data analytics activities for rural and agricultural development economics projects, transforming complex datasets into evidence-based insights.
-- Designed research methodologies, survey instruments, and sampling strategies for multi-country studies, ensuring rigorous and reliable data collection across diverse field contexts.
-- Developed reproducible analytical workflows, documentation, and quality assurance processes to improve efficiency, transparency, and research integrity.
+- Applied econometric modeling, regression analysis, and other causal inference techniques (PSM, IV, TWFE, DID) to identify trends, patterns, and key drivers supporting strategic decision-making.
+- Developed reproducible end-to-end data workflows, documentation, and quality assurance processes to improve efficiency, transparency, and research integrity.
 - Mentored graduate researchers on quantitative analysis, statistical programming, research methodology, and best practices in data analysis.
 
 ## Skills 
