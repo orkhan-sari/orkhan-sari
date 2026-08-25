@@ -10,9 +10,9 @@ I am Orkhan, a senior agricultural economist/data analyst/quantitative researche
 ## Skills 
 **Research Methods:** Quantitative Research, Applied Research, Econometrics, Impact Evaluation, Causal Inference, Survey Design, Sampling Methodology, Research Methodology, Programme Evaluation
 
-**Tools:** Stata, R, MS Excel, Python, SQL 
+**Tools:** Stata, R, MS Excel, Python, SQL, Power BI
 
-**Policy & Consulting:** Policy Analysis, Research Consulting
+**Policy & Consulting:** Policy Analysis, Research Consulting, Economic Consulting
 
 **Communication:** Scientific Writing, Technical ReportWriting, Stakeholder Engagement, Project Coordination
 
