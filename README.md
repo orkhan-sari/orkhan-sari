@@ -22,9 +22,9 @@ I am Orkhan, a senior agricultural economist/data analyst/quantitative researche
    - **Tools:** `R` (`tidyverse` · `tidymodels` · `xgboost` · `ranger`)
    - **Skills demonstrated:** predictive modeling, model benchmarking, cross-validation
      
-- 🛒 [Dunnhumby Retail Analytics](https://github.com/orkhan-sari/Retail_analytics.git) - A retail analytics project exploring customer purchasing behavior and retail performance using transactional grocery data.
-   -  **Tools:** `SQL Server` · `T-SQL`
-   -  **Skills demonstrated:** `JOINs` · `CTEs` · `Subqueries` · `Aggregations` · `Window Functions` · `CASE` · `Date Functions` · `Data Cleaning` · `Data Quality` · `Analytical Views`
+- 🛒 [Dunnhumby Retail Analytics](https://github.com/orkhan-sari/Retail_analytics.git) - An end-to-end analytics project exploring customer purchasing behavior and retail performance using transactional grocery data.
+   -  **Tools:** `SQL Server` · `T-SQL`, `Power BI`
+   -  **Skills demonstrated:** `JOINs` · `CTEs` · `Subqueries` · `Aggregations` · `Window Functions` · `CASE` · `Date Functions` · `Data Cleaning` · `Data Quality` · `Analytical Views` . `Dashboard`
    - 
 - 🌾 [Poverty and Food Security Impacts of Sustainable Intensification](https://github.com/orkhan-sari/isfmca-replication.git) - Replication package for a peer-reviewed publication analyzing how sustainable intensification practices affect poverty and food security among smallholder farmers in Ethiopia.
   - **Data:** Household panel data: [*Smallholder farmers' risk management and innovation strategies and their impacts on poverty and resilience*](https://gepris.dfg.de/gepris/projekt/234398257?language=en), combined with rainfall data from [CHIRPS](https://www.chc.ucsb.edu/data/chirps)(Climate Hazards Group InfraRed Precipitation with Station data).
